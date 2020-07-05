@@ -1,6 +1,6 @@
-Create application for news
+Create application for news<br/>
 Tasks 
-[] Create api
+*[] Create api
     [] Create news
     [] update News
     [] create category
