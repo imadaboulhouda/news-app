@@ -1,10 +1,11 @@
-Create application for news<br/>
-Tasks 
-*[] Create api
-    [] Create news
-    [] update News
-    [] create category
-    [] update category
-    [] Delete News
+Create application for news
+## Tasks 
 
-[] create application mobile with react native
+- [ ] Create api
+- [ ] Create news
+- [ ] update News
+- [ ] create category
+- [ ] update category
+- [ ] Delete News
+
+- [ ] create application mobile with react native
